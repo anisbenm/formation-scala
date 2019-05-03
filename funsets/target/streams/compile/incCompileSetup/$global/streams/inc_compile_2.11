@@ -1,0 +1,275 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> C:\Users\aem\Documents\formation scala\funsets\target\scala-2.11\classes
+compile options:
+1 items
+0 -> -deprecation
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.12
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+19 items
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\common\package.scala -> C:\Users\aem\Documents\formation scala\funsets\target\scala-2.11\classes\common\package$$anonfun$subFile$1.class
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\common\package.scala -> C:\Users\aem\Documents\formation scala\funsets\target\scala-2.11\classes\common\package$.class
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\common\package.scala -> C:\Users\aem\Documents\formation scala\funsets\target\scala-2.11\classes\common\package.class
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\FunSets.scala -> C:\Users\aem\Documents\formation scala\funsets\target\scala-2.11\classes\funsets\FunSets$$anonfun$1.class
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\FunSets.scala -> C:\Users\aem\Documents\formation scala\funsets\target\scala-2.11\classes\funsets\FunSets$$anonfun$2.class
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\FunSets.scala -> C:\Users\aem\Documents\formation scala\funsets\target\scala-2.11\classes\funsets\FunSets$$anonfun$diff$1.class
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\FunSets.scala -> C:\Users\aem\Documents\formation scala\funsets\target\scala-2.11\classes\funsets\FunSets$$anonfun$exists$1.class
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\FunSets.scala -> C:\Users\aem\Documents\formation scala\funsets\target\scala-2.11\classes\funsets\FunSets$$anonfun$filter$1.class
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\FunSets.scala -> C:\Users\aem\Documents\formation scala\funsets\target\scala-2.11\classes\funsets\FunSets$$anonfun$intersect$1.class
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\FunSets.scala -> C:\Users\aem\Documents\formation scala\funsets\target\scala-2.11\classes\funsets\FunSets$$anonfun$map$1$$anonfun$apply$mcZI$sp$1.class
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\FunSets.scala -> C:\Users\aem\Documents\formation scala\funsets\target\scala-2.11\classes\funsets\FunSets$$anonfun$map$1.class
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\FunSets.scala -> C:\Users\aem\Documents\formation scala\funsets\target\scala-2.11\classes\funsets\FunSets$$anonfun$singletonSet$1.class
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\FunSets.scala -> C:\Users\aem\Documents\formation scala\funsets\target\scala-2.11\classes\funsets\FunSets$$anonfun$union$1.class
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\FunSets.scala -> C:\Users\aem\Documents\formation scala\funsets\target\scala-2.11\classes\funsets\FunSets$.class
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\FunSets.scala -> C:\Users\aem\Documents\formation scala\funsets\target\scala-2.11\classes\funsets\FunSets.class
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\Main.scala -> C:\Users\aem\Documents\formation scala\funsets\target\scala-2.11\classes\funsets\Main$$anonfun$1.class
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\Main.scala -> C:\Users\aem\Documents\formation scala\funsets\target\scala-2.11\classes\funsets\Main$.class
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\Main.scala -> C:\Users\aem\Documents\formation scala\funsets\target\scala-2.11\classes\funsets\Main$delayedInit$body.class
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\Main.scala -> C:\Users\aem\Documents\formation scala\funsets\target\scala-2.11\classes\funsets\Main.class
+binary dependencies:
+3 items
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\common\package.scala -> C:\Users\aem\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.11.12\scala-library-2.11.12.jar
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\FunSets.scala -> C:\Users\aem\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.11.12\scala-library-2.11.12.jar
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\Main.scala -> C:\Users\aem\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.11.12\scala-library-2.11.12.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+1 items
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\Main.scala -> C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\FunSets.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+19 items
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\common\package.scala -> common.package
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\common\package.scala -> common.package$
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\common\package.scala -> common.package$$anonfun$subFile$1
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\FunSets.scala -> funsets.FunSets
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\FunSets.scala -> funsets.FunSets$
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\FunSets.scala -> funsets.FunSets$$anonfun$1
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\FunSets.scala -> funsets.FunSets$$anonfun$2
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\FunSets.scala -> funsets.FunSets$$anonfun$diff$1
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\FunSets.scala -> funsets.FunSets$$anonfun$exists$1
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\FunSets.scala -> funsets.FunSets$$anonfun$filter$1
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\FunSets.scala -> funsets.FunSets$$anonfun$intersect$1
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\FunSets.scala -> funsets.FunSets$$anonfun$map$1
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\FunSets.scala -> funsets.FunSets$$anonfun$map$1$$anonfun$apply$mcZI$sp$1
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\FunSets.scala -> funsets.FunSets$$anonfun$singletonSet$1
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\FunSets.scala -> funsets.FunSets$$anonfun$union$1
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\Main.scala -> funsets.Main
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\Main.scala -> funsets.Main$
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\Main.scala -> funsets.Main$$anonfun$1
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\Main.scala -> funsets.Main$delayedInit$body
+used names:
+126 items
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\common\package.scala -> ::
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\common\package.scala -> <init>
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\common\package.scala -> <repeated>
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\common\package.scala -> ?0
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\common\package.scala -> A
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\common\package.scala -> Any
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\common\package.scala -> AnyRef
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\common\package.scala -> B
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\common\package.scala -> Boolean
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\common\package.scala -> Class
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\common\package.scala -> File
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\common\package.scala -> FileInputStream
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\common\package.scala -> Function2
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\common\package.scala -> InputStream
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\common\package.scala -> List
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\common\package.scala -> None
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\common\package.scala -> Nothing
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\common\package.scala -> Object
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\common\package.scala -> Option
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\common\package.scala -> Predef
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\common\package.scala -> Some
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\common\package.scala -> String
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\common\package.scala -> URI
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\common\package.scala -> URL
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\common\package.scala -> _root_
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\common\package.scala -> child
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\common\package.scala -> children
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\common\package.scala -> classesDir
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\common\package.scala -> common
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\common\package.scala -> exists
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\common\package.scala -> file
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\common\package.scala -> foldLeft
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\common\package.scala -> getClass
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\common\package.scala -> getParentFile
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\common\package.scala -> getResource
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\common\package.scala -> io
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\common\package.scala -> java
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\common\package.scala -> package
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\common\package.scala -> projectDir
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\common\package.scala -> resourceFile
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\common\package.scala -> resourcePath
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\common\package.scala -> scala
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\common\package.scala -> subFile
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\common\package.scala -> toURI
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\FunSets.scala -> &&
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\FunSets.scala -> +
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\FunSets.scala -> <init>
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\FunSets.scala -> ==
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\FunSets.scala -> >
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\FunSets.scala -> A
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\FunSets.scala -> Any
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\FunSets.scala -> AnyRef
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\FunSets.scala -> B
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\FunSets.scala -> Boolean
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\FunSets.scala -> CanBuildFrom
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\FunSets.scala -> Coll
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\FunSets.scala -> FilterMonadic
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\FunSets.scala -> FunSets
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\FunSets.scala -> Function1
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\FunSets.scala -> Inclusive
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\FunSets.scala -> IndexedSeq
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\FunSets.scala -> Int
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\FunSets.scala -> Nothing
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\FunSets.scala -> Object
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\FunSets.scala -> Predef
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\FunSets.scala -> Range
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\FunSets.scala -> RichInt
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\FunSets.scala -> Set
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\FunSets.scala -> String
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\FunSets.scala -> That
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\FunSets.scala -> Unit
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\FunSets.scala -> _root_
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\FunSets.scala -> a
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\FunSets.scala -> apply
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\FunSets.scala -> bound
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\FunSets.scala -> canBuildFrom
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\FunSets.scala -> contains
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\FunSets.scala -> elem
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\FunSets.scala -> exists
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\FunSets.scala -> f
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\FunSets.scala -> forall
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\FunSets.scala -> funsets
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\FunSets.scala -> i
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\FunSets.scala -> immutable
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\FunSets.scala -> intWrapper
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\FunSets.scala -> iter
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\FunSets.scala -> map
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\FunSets.scala -> mkString
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\FunSets.scala -> n
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\FunSets.scala -> p
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\FunSets.scala -> println
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\FunSets.scala -> s
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\FunSets.scala -> scala
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\FunSets.scala -> t
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\FunSets.scala -> to
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\FunSets.scala -> toString
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\FunSets.scala -> unary_!
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\FunSets.scala -> unary_-
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\FunSets.scala -> withFilter
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\FunSets.scala -> x
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\FunSets.scala -> xs
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\FunSets.scala -> ||
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\Main.scala -> *
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\Main.scala -> <init>
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\Main.scala -> Any
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\Main.scala -> App
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\Main.scala -> Boolean
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\Main.scala -> FunSets
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\Main.scala -> Function1
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\Main.scala -> Int
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\Main.scala -> Main
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\Main.scala -> Object
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\Main.scala -> Predef
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\Main.scala -> Set
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\Main.scala -> Unit
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\Main.scala -> contains
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\Main.scala -> funsets
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\Main.scala -> map
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\Main.scala -> println
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\Main.scala -> s
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\Main.scala -> s1
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\Main.scala -> s2
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\Main.scala -> scala
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\Main.scala -> singletonSet
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\Main.scala -> union
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\Main.scala -> x
+product stamps:
+19 items
+C:\Users\aem\Documents\formation scala\funsets\target\scala-2.11\classes\common\package$$anonfun$subFile$1.class -> lastModified(1556888324959)
+C:\Users\aem\Documents\formation scala\funsets\target\scala-2.11\classes\common\package$.class -> lastModified(1556888324944)
+C:\Users\aem\Documents\formation scala\funsets\target\scala-2.11\classes\common\package.class -> lastModified(1556888324866)
+C:\Users\aem\Documents\formation scala\funsets\target\scala-2.11\classes\funsets\FunSets$$anonfun$1.class -> lastModified(1556888324991)
+C:\Users\aem\Documents\formation scala\funsets\target\scala-2.11\classes\funsets\FunSets$$anonfun$2.class -> lastModified(1556888324991)
+C:\Users\aem\Documents\formation scala\funsets\target\scala-2.11\classes\funsets\FunSets$$anonfun$diff$1.class -> lastModified(1556888325006)
+C:\Users\aem\Documents\formation scala\funsets\target\scala-2.11\classes\funsets\FunSets$$anonfun$exists$1.class -> lastModified(1556888325006)
+C:\Users\aem\Documents\formation scala\funsets\target\scala-2.11\classes\funsets\FunSets$$anonfun$filter$1.class -> lastModified(1556888325022)
+C:\Users\aem\Documents\formation scala\funsets\target\scala-2.11\classes\funsets\FunSets$$anonfun$intersect$1.class -> lastModified(1556888325022)
+C:\Users\aem\Documents\formation scala\funsets\target\scala-2.11\classes\funsets\FunSets$$anonfun$map$1$$anonfun$apply$mcZI$sp$1.class -> lastModified(1556888325037)
+C:\Users\aem\Documents\formation scala\funsets\target\scala-2.11\classes\funsets\FunSets$$anonfun$map$1.class -> lastModified(1556888325037)
+C:\Users\aem\Documents\formation scala\funsets\target\scala-2.11\classes\funsets\FunSets$$anonfun$singletonSet$1.class -> lastModified(1556888325037)
+C:\Users\aem\Documents\formation scala\funsets\target\scala-2.11\classes\funsets\FunSets$$anonfun$union$1.class -> lastModified(1556888325037)
+C:\Users\aem\Documents\formation scala\funsets\target\scala-2.11\classes\funsets\FunSets$.class -> lastModified(1556888324991)
+C:\Users\aem\Documents\formation scala\funsets\target\scala-2.11\classes\funsets\FunSets.class -> lastModified(1556888324959)
+C:\Users\aem\Documents\formation scala\funsets\target\scala-2.11\classes\funsets\Main$$anonfun$1.class -> lastModified(1556888325069)
+C:\Users\aem\Documents\formation scala\funsets\target\scala-2.11\classes\funsets\Main$.class -> lastModified(1556888325069)
+C:\Users\aem\Documents\formation scala\funsets\target\scala-2.11\classes\funsets\Main$delayedInit$body.class -> lastModified(1556888325069)
+C:\Users\aem\Documents\formation scala\funsets\target\scala-2.11\classes\funsets\Main.class -> lastModified(1556888325053)
+source stamps:
+3 items
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\common\package.scala -> hash(885b8f12a5b2a83dad658f76cc1fdd678a38d4a8)
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\FunSets.scala -> hash(e478ca580f54891c11ddbcc05256d181f449b719)
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\Main.scala -> hash(a14997f090d7ebec82326155aa761d349532b671)
+binary stamps:
+1 items
+C:\Users\aem\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.11.12\scala-library-2.11.12.jar -> lastModified(1509673049000)
+class names:
+1 items
+C:\Users\aem\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.11.12\scala-library-2.11.12.jar -> scala.App
+internal apis:
+3 items
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\common\package.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwNR5ezQABc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAYc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwxBALLnQABm5vdGlmeXNxAH4ADLd7app0AAdwYWNrYWdlc3EAfgAMJhK6tnQABHdhaXRzcQB+AAzx5+qMdAANJGFzSW5zdGFuY2VPZnNxAH4ADM2K/A90AAZlcXVhbHNzcQB+AAzxbFRpdAAMYXNJbnN0YW5jZU9mc3EAfgAMzsiFSnQADHN5bmNocm9uaXplZHNxAH4ADFjDlPV0AA0kaXNJbnN0YW5jZU9mc3EAfgAMqj2IS3QAF3Jlc291cmNlQXNTdHJlYW1Gcm9tU3Jjc3EAfgAM1Ez2oXQACW5vdGlmeUFsbHNxAH4ADCYkqcp0AAxpc0luc3RhbmNlT2ZzcQB+AAxpxNpvdAADPz8/c3EAfgAMmnpgkXQAAj09c3EAfgAM2tY31nQABWNsb25lc3EAfgAMZ0zWI3QAB3N1YkZpbGVzcQB+AAwkK+HodAAIdG9TdHJpbmdzcQB+AAw/usRqdAACIT1zcQB+AAzTr+AcdAAIZ2V0Q2xhc3NzcQB+AAwIKkOTdAACbmVzcQB+AAwadAmLdAACZXFzcQB+AAyTEjXPdAACIyNzcQB+AAyruj4odAAIZmluYWxpemVzcQB+AAzDjCCldAAIaGFzaENvZGVzcQB+AAx7bUT0dAADKioqc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AR3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQADmNvbW1vbi5wYWNrYWdldXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAXQAJmpkay5pbnRlcm5hbC5Ib3RTcG90SW50cmluc2ljQ2FuZGlkYXRlc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AGBzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AR0wACWluaGVyaXRlZHEAfgBHTAAHcGFyZW50c3EAfgBHeHEAfgBlc3EAfgBgdXEAfgBCAAAAAHNxAH4AYHVxAH4AQgAAAABzcQB+AGB1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGR0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGRzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AH10AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AH5zcQB+AHF0AANBbnlzcQB+AHVzcQB+AHh1cQB+AHsAAAACc3EAfgB9dAAFc2NhbGFxAH4AhHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQABmNvbW1vbnNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABan3GI191cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABIQzpcVXNlcnNcYWVtXERvY3VtZW50c1xmb3JtYXRpb24gc2NhbGFcZnVuc2V0c1x0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUiFuPEqWyqD2tZY92zB/dZ4o41Kg=
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\FunSets.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwjFI/xQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAgc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwziGm7HQABm5vdGlmeXNxAH4ADL4x2R50AANTZXRzcQB+AAy6+22YdAAEd2FpdHNxAH4ADFv+wT90AA0kYXNJbnN0YW5jZU9mc3EAfgAMg9QPwXQABXVuaW9uc3EAfgAMQWt8I3QACWludGVyc2VjdHNxAH4ADKw8M0h0AAxzaW5nbGV0b25TZXRzcQB+AAzGEFZ/dAADbWFwc3EAfgAMJWgIAXQABmVxdWFsc3NxAH4ADAT1zB10AAxhc0luc3RhbmNlT2ZzcQB+AAxRwsRjdAAMc3luY2hyb25pemVkc3EAfgAMv50i13QADSRpc0luc3RhbmNlT2ZzcQB+AAwPOWi6dAAGZm9yYWxsc3EAfgAMhr5aD3QACHByaW50U2V0c3EAfgAM9da56HQACW5vdGlmeUFsbHNxAH4ADGTVKbl0AAxpc0luc3RhbmNlT2ZzcQB+AAyQpI/BdAAGZmlsdGVyc3EAfgAMMMCQBnQABWJvdW5kc3EAfgAMXawBJXQAB0Z1blNldHNzcQB+AAxfIZNUdAAEZGlmZnNxAH4ADIernjJ0AAI9PXNxAH4ADJbCWEN0AAVjbG9uZXNxAH4ADJOCQeh0AAZleGlzdHNzcQB+AAzP+xdodAAIdG9TdHJpbmdzcQB+AAyoNsCxdAACIT1zcQB+AAwc+eH8dAAIZ2V0Q2xhc3NzcQB+AAysr0GVdAAIY29udGFpbnNzcQB+AAzD449qdAACbmVzcQB+AAzW7+VBdAACZXFzcQB+AAwK8Zp/dAACIyNzcQB+AAzWASmgdAAIZmluYWxpemVzcQB+AAxmlz6AdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBXeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAPZnVuc2V0cy5GdW5TZXRzdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAXQAJmpkay5pbnRlcm5hbC5Ib3RTcG90SW50cmluc2ljQ2FuZGlkYXRlc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AHBzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AV0wACWluaGVyaXRlZHEAfgBXTAAHcGFyZW50c3EAfgBXeHEAfgB1c3EAfgBwdXEAfgBSAAAAAHNxAH4AcHVxAH4AUgAAAABzcQB+AHB1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AHR0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AHRzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AI10AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AI5zcQB+AIF0AANBbnlzcQB+AIVzcQB+AIh1cQB+AIsAAAACc3EAfgCNdAAFc2NhbGFxAH4AlHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAB2Z1bnNldHNzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAWp9xiNfdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQASEM6XFVzZXJzXGFlbVxEb2N1bWVudHNcZm9ybWF0aW9uIHNjYWxhXGZ1bnNldHNcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFOR4ylgPVIkcEd28wFJW0YH0SbcZ
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\Main.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwoqx1kQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAcc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwG9TtQnQABm5vdGlmeXNxAH4ADC/W8aF0AAFzc3EAfgAMjBVX5HQABHdhaXRzcQB+AAzfo7/PdAANJGFzSW5zdGFuY2VPZnNxAH4ADPYpomd0AAZlcXVhbHNzcQB+AAwATeTOdAAMYXNJbnN0YW5jZU9mc3EAfgAM/E+8uHQADmV4ZWN1dGlvblN0YXJ0c3EAfgAMJFAO9HQADHN5bmNocm9uaXplZHNxAH4ADJiYB3Z0AA0kaXNJbnN0YW5jZU9mc3EAfgAMcfB5I3QAAnMyc3EAfgAM6OnxeHQABG1haW5zcQB+AAw7rLoNdAAJbm90aWZ5QWxsc3EAfgAMWtew2nQADGlzSW5zdGFuY2VPZnNxAH4ADDLzuHN0AAJzMXNxAH4ADCgpif90AAI9PXNxAH4ADD9goi50AAVjbG9uZXNxAH4ADHT1m1N0AAYkaW5pdCRzcQB+AAxM7gcGdAAETWFpbnNxAH4ADL/kkIJ0AAh0b1N0cmluZ3NxAH4ADOI+niF0AARhcmdzc3EAfgAM9arFZHQAAiE9c3EAfgAMDtiFyHQACGdldENsYXNzc3EAfgAM3PoGh3QAAm5lc3EAfgAM7W3NyXQAAmVxc3EAfgAM0zWfPHQAC2RlbGF5ZWRJbml0c3EAfgAMTVymKHQAAiMjc3EAfgAMdcWosHQACGZpbmFsaXplc3EAfgAM0s4gl3QACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AT3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQADGZ1bnNldHMuTWFpbnVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAAN0ABpzY2FsYS5kZXByZWNhdGVkT3ZlcnJpZGluZ3QAEHNjYWxhLmRlcHJlY2F0ZWR0ACZqZGsuaW50ZXJuYWwuSG90U3BvdEludHJpbnNpY0NhbmRpZGF0ZXNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBqc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AE9MAAlpbmhlcml0ZWRxAH4AT0wAB3BhcmVudHNxAH4AT3hxAH4Ab3NxAH4AanVxAH4ASgAAAABzcQB+AGp1cQB+AEoAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AFBxAH4AWXVxAH4AWgAAAAFzcgAUeHNidGkuYXBpLkFubm90YXRpb27eDoGi9lwKsgIAAlsACWFyZ3VtZW50c3QAH1tMeHNidGkvYXBpL0Fubm90YXRpb25Bcmd1bWVudDtMAARiYXNlcQB+AHl4cHVyAB9bTHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnQ7UZ2mjzglD3gCAAB4cAAAAAFzcgAceHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudNZFsdgDGxd8AgACTAAEbmFtZXEAfgANTAAFdmFsdWVxAH4ADXhwdAAAdAAqKCJtYWluIHNob3VsZCBub3QgYmUgb3ZlcnJpZGRlbiIsIjIuMTEuMCIpc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AbnQAFGRlcHJlY2F0ZWRPdmVycmlkaW5nc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBuc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCTc3EAfgBcAHEAfgAjdXEAfgBfAAAAAHNxAH4AhnQABFVuaXRxAH4AjHVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AHl4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AGJ0AAVQbGFpbnEAfgA1c3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgCHWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBuc3EAfgCGdAAFQXJyYXlxAH4AjHVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgCGdAAGU3RyaW5nc3EAfgCKc3EAfgCNdXEAfgCQAAAAA3NxAH4AknQABGphdmFzcQB+AJJ0AARsYW5ncQB+AJdzcQB+AGp1cQB+AK4AAAAEc3EAfgCGdAADQXBwcQB+AIxzcQB+AIZ0AAtEZWxheWVkSW5pdHEAfgCMc3EAfgCGdAAGT2JqZWN0cQB+ALJzcQB+AIZ0AANBbnlxAH4AjHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAB2Z1bnNldHNzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAWp9xiNfdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQASEM6XFVzZXJzXGFlbVxEb2N1bWVudHNcZm9ybWF0aW9uIHNjYWxhXGZ1bnNldHNcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFKFJl/CQ1+vsgjJhVap2HTSVMrZx
+external apis:
+0 items
+source infos:
+3 items
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\common\package.scala -> 
+AAAAAAAAAAA=
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\FunSets.scala -> 
+AAAAAAAAAAA=
+C:\Users\aem\Documents\formation scala\funsets\src\main\scala\funsets\Main.scala -> 
+AAAAAAAAAAA=
+compilations:
+10 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABahJmI1x1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPkM6XFVzZXJzXGFlbVxEZXNrdG9wXGZ1bnNldHNcZnVuc2V0c1x0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABaisxDmt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPkM6XFVzZXJzXGFlbVxEZXNrdG9wXGZ1bnNldHNcZnVuc2V0c1x0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABais8XMN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPkM6XFVzZXJzXGFlbVxEZXNrdG9wXGZ1bnNldHNcZnVuc2V0c1x0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+3 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABaiubSQN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPkM6XFVzZXJzXGFlbVxEZXNrdG9wXGZ1bnNldHNcZnVuc2V0c1x0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+4 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABaiuty4p1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPkM6XFVzZXJzXGFlbVxEZXNrdG9wXGZ1bnNldHNcZnVuc2V0c1x0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+5 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABai7RcJZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPkM6XFVzZXJzXGFlbVxEZXNrdG9wXGZ1bnNldHNcZnVuc2V0c1x0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+6 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABai7TfQV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPkM6XFVzZXJzXGFlbVxEZXNrdG9wXGZ1bnNldHNcZnVuc2V0c1x0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+7 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABai7lg0N1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPkM6XFVzZXJzXGFlbVxEZXNrdG9wXGZ1bnNldHNcZnVuc2V0c1x0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+8 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABaniv7+B1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPkM6XFVzZXJzXGFlbVxEZXNrdG9wXGZ1bnNldHNcZnVuc2V0c1x0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+9 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABan3GI191cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASEM6XFVzZXJzXGFlbVxEb2N1bWVudHNcZm9ybWF0aW9uIHNjYWxhXGZ1bnNldHNcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=

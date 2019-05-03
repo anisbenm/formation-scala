@@ -1,0 +1,8 @@
+[info] FunSetSuite:
+[info] - contains is implemented
+[info] - singletonSet(1) contains 1
+[info] - union contains all elements of each set
+[info] - intesect contains only one element
+[info] - diff ne contiens que les element de 1 qui ne sont pas dans 2
+[info] - filtre des elements pairs
+[info] - mab triple de la valeur

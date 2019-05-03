@@ -1,0 +1,27 @@
+[debug] [naha] Invalidating C:\Users\aem\.ivy2\cache\org.scala-sbt\io\jars\io-0.13.17.jar: class sbt.PathLow now provided by C:\Users\aem\.ivy2\cache\org.scala-sbt\io\jars\io-0.13.18.jar
+[debug] [naha] Invalidating C:\Users\aem\.ivy2\cache\org.scala-sbt\sbt\jars\sbt-0.13.17.jar: class sbt.package$ now provided by C:\Users\aem\.ivy2\cache\org.scala-sbt\sbt\jars\sbt-0.13.18.jar
+[debug] [naha] Invalidating C:\Users\aem\.ivy2\cache\org.scala-sbt\logging\jars\logging-0.13.17.jar: class sbt.Logger now provided by C:\Users\aem\.ivy2\cache\org.scala-sbt\logging\jars\logging-0.13.18.jar
+[debug] [naha] Invalidating C:\Users\aem\.ivy2\cache\org.scala-sbt\main\jars\main-0.13.17.jar: class sbt.ClasspathDep now provided by C:\Users\aem\.ivy2\cache\org.scala-sbt\main\jars\main-0.13.18.jar
+[debug] [naha] Invalidating C:\Users\aem\.ivy2\cache\org.scala-sbt\apply-macro\jars\apply-macro-0.13.17.jar: class sbt.appmacro.Instance$ now provided by C:\Users\aem\.ivy2\cache\org.scala-sbt\apply-macro\jars\apply-macro-0.13.18.jar
+[debug] [naha] Invalidating C:\Users\aem\.ivy2\cache\org.scala-sbt\ivy\jars\ivy-0.13.17.jar: class sbt.ModuleID now provided by C:\Users\aem\.ivy2\cache\org.scala-sbt\ivy\jars\ivy-0.13.18.jar
+[debug] [naha] Invalidating C:\Users\aem\.ivy2\cache\org.scala-sbt\incremental-compiler\jars\incremental-compiler-0.13.17.jar: class sbt.inc.Analysis now provided by C:\Users\aem\.ivy2\cache\org.scala-sbt\incremental-compiler\jars\incremental-compiler-0.13.18.jar
+[debug] [naha] Invalidating C:\Users\aem\.ivy2\cache\org.scala-sbt\task-system\jars\task-system-0.13.17.jar: class sbt.Task now provided by C:\Users\aem\.ivy2\cache\org.scala-sbt\task-system\jars\task-system-0.13.18.jar
+[debug] [naha] Invalidating C:\Users\aem\.ivy2\cache\org.scala-sbt\command\jars\command-0.13.17.jar: class sbt.State now provided by C:\Users\aem\.ivy2\cache\org.scala-sbt\command\jars\command-0.13.18.jar
+[debug] [naha] Invalidating C:\Users\aem\.ivy2\cache\org.scala-sbt\collections\jars\collections-0.13.17.jar: class sbt.AList$ now provided by C:\Users\aem\.ivy2\cache\org.scala-sbt\collections\jars\collections-0.13.18.jar
+[debug] [naha] Invalidating C:\Users\aem\.ivy2\cache\org.scala-sbt\main-settings\jars\main-settings-0.13.17.jar: class sbt.std.TaskInstance$ now provided by C:\Users\aem\.ivy2\cache\org.scala-sbt\main-settings\jars\main-settings-0.13.18.jar
+[debug] [naha] Invalidating C:\Users\aem\.ivy2\cache\org.scala-sbt\completion\jars\completion-0.13.17.jar: class sbt.complete.Parser now provided by C:\Users\aem\.ivy2\cache\org.scala-sbt\completion\jars\completion-0.13.18.jar
+[debug] [naha] 
+[debug] [naha] Initial source changes: 
+[debug] [naha] 	removed:Set()
+[debug] [naha] 	added: Set()
+[debug] [naha] 	modified: Set()
+[debug] [naha] Invalidated products: Set()
+[debug] [naha] External API changes: API Changes: Set()
+[debug] [naha] Modified binary dependencies: Set(C:\Users\aem\.ivy2\cache\org.scala-sbt\io\jars\io-0.13.17.jar, C:\Users\aem\.ivy2\cache\org.scala-sbt\sbt\jars\sbt-0.13.17.jar, C:\Users\aem\.ivy2\cache\org.scala-sbt\logging\jars\logging-0.13.17.jar, C:\Users\aem\.ivy2\cache\org.scala-sbt\main\jars\main-0.13.17.jar, C:\Users\aem\.ivy2\cache\org.scala-sbt\apply-macro\jars\apply-macro-0.13.17.jar, C:\Users\aem\.ivy2\cache\org.scala-sbt\ivy\jars\ivy-0.13.17.jar, C:\Users\aem\.ivy2\cache\org.scala-sbt\incremental-compiler\jars\incremental-compiler-0.13.17.jar, C:\Users\aem\.ivy2\cache\org.scala-sbt\task-system\jars\task-system-0.13.17.jar, C:\Users\aem\.ivy2\cache\org.scala-sbt\command\jars\command-0.13.17.jar, C:\Users\aem\.ivy2\cache\org.scala-sbt\collections\jars\collections-0.13.17.jar, C:\Users\aem\.ivy2\cache\org.scala-sbt\main-settings\jars\main-settings-0.13.17.jar, C:\Users\aem\.ivy2\cache\org.scala-sbt\completion\jars\completion-0.13.17.jar)
+[debug] [naha] Initial directly invalidated sources: Set()
+[debug] [naha] 
+[debug] [naha] Sources indirectly invalidated by:
+[debug] [naha] 	product: Set()
+[debug] [naha] 	binary dep: Set()
+[debug] [naha] 	external source: Set()
+[debug] All initially invalidated sources: Set()
