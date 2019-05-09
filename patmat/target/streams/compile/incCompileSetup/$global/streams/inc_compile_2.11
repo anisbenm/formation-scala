@@ -1,0 +1,303 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> C:\Users\aem\Documents\formation scala\patmat\target\scala-2.11\classes
+compile options:
+1 items
+0 -> -deprecation
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.12
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+12 items
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\common\package.scala -> C:\Users\aem\Documents\formation scala\patmat\target\scala-2.11\classes\common\package$$anonfun$subFile$1.class
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\common\package.scala -> C:\Users\aem\Documents\formation scala\patmat\target\scala-2.11\classes\common\package$.class
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\common\package.scala -> C:\Users\aem\Documents\formation scala\patmat\target\scala-2.11\classes\common\package.class
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> C:\Users\aem\Documents\formation scala\patmat\target\scala-2.11\classes\patmat\Huffman$$anonfun$createCodeTree$1.class
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> C:\Users\aem\Documents\formation scala\patmat\target\scala-2.11\classes\patmat\Huffman$$anonfun$createCodeTree$2.class
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> C:\Users\aem\Documents\formation scala\patmat\target\scala-2.11\classes\patmat\Huffman$.class
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> C:\Users\aem\Documents\formation scala\patmat\target\scala-2.11\classes\patmat\Huffman$CodeTree.class
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> C:\Users\aem\Documents\formation scala\patmat\target\scala-2.11\classes\patmat\Huffman$Fork$.class
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> C:\Users\aem\Documents\formation scala\patmat\target\scala-2.11\classes\patmat\Huffman$Fork.class
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> C:\Users\aem\Documents\formation scala\patmat\target\scala-2.11\classes\patmat\Huffman$Leaf$.class
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> C:\Users\aem\Documents\formation scala\patmat\target\scala-2.11\classes\patmat\Huffman$Leaf.class
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> C:\Users\aem\Documents\formation scala\patmat\target\scala-2.11\classes\patmat\Huffman.class
+binary dependencies:
+2 items
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\common\package.scala -> C:\Users\aem\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.11.12\scala-library-2.11.12.jar
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> C:\Users\aem\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.11.12\scala-library-2.11.12.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+12 items
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\common\package.scala -> common.package
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\common\package.scala -> common.package$
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\common\package.scala -> common.package$$anonfun$subFile$1
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> patmat.Huffman
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> patmat.Huffman$
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> patmat.Huffman$$anonfun$createCodeTree$1
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> patmat.Huffman$$anonfun$createCodeTree$2
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> patmat.Huffman$CodeTree
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> patmat.Huffman$Fork
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> patmat.Huffman$Fork$
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> patmat.Huffman$Leaf
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> patmat.Huffman$Leaf$
+used names:
+178 items
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\common\package.scala -> ::
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\common\package.scala -> <init>
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\common\package.scala -> <repeated>
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\common\package.scala -> ?0
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\common\package.scala -> A
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\common\package.scala -> Any
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\common\package.scala -> AnyRef
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\common\package.scala -> B
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\common\package.scala -> Boolean
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\common\package.scala -> Class
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\common\package.scala -> File
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\common\package.scala -> FileInputStream
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\common\package.scala -> Function2
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\common\package.scala -> InputStream
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\common\package.scala -> List
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\common\package.scala -> None
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\common\package.scala -> Nothing
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\common\package.scala -> Object
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\common\package.scala -> Option
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\common\package.scala -> Predef
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\common\package.scala -> Some
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\common\package.scala -> String
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\common\package.scala -> URI
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\common\package.scala -> URL
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\common\package.scala -> _root_
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\common\package.scala -> child
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\common\package.scala -> children
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\common\package.scala -> classesDir
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\common\package.scala -> common
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\common\package.scala -> exists
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\common\package.scala -> file
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\common\package.scala -> foldLeft
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\common\package.scala -> getClass
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\common\package.scala -> getParentFile
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\common\package.scala -> getResource
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\common\package.scala -> io
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\common\package.scala -> java
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\common\package.scala -> package
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\common\package.scala -> projectDir
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\common\package.scala -> resourceFile
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\common\package.scala -> resourcePath
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\common\package.scala -> scala
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\common\package.scala -> subFile
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\common\package.scala -> toURI
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> &&
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> +
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> ::
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> :::
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> <
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> <=
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> <init>
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> <repeated>
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> ==
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> A
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> A1
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> AbstractFunction2
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> AbstractFunction4
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> Any
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> AnyRef
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> B
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> Bit
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> Boolean
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> Char
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> CodeTable
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> CodeTree
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> Fork
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> Function1
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> Huffman
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> IllegalArgumentException
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> IndexOutOfBoundsException
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> Int
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> Iterator
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> Leaf
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> List
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> MatchError
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> Nil
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> NoSuchElementException
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> None
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> Nothing
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> Object
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> Predef
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> Product
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> ScalaRunTime
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> Serializable
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> Some
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> Statics
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> String
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> StringOps
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> T
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> T0
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> T1
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> T2
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> T3
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> T4
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> Tuple2
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> Tuple4
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> _1
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> _2
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> _root_
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> _toString
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> a
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> anyHash
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> apply
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> asInstanceOf
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> augmentString
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> b
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> bitList
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> bits
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> c
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> char
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> chars
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> charsIn
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> charsTime
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> codeBits
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> collection
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> combine
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> common
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> contains
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> convert
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> count
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> decode
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> encodeChar
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> eq
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> fillBits
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> fillChars
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> finalizeHash
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> fork
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> frenchCode
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> freqs
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> head
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> immutable
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> initialList
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> insert
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> isEmpty
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> isInstanceOf
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> isSingleton
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> l
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> leaf
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> leafs
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> left
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> length
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> listBits
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> listC
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> littleTrees
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> loop
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> makeCodeTree
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> makeOrderedLeafList
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> mix
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> optimizeList
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> package
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> patmat
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> putFork
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> r
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> reverse
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> right
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> runtime
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> scala
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> secret
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> singleton
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> str
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> subBits
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> subText
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> subTree
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> table
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> tail
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> text
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> times
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> toInt
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> toList
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> toString
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> tree
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> trees
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> tuples
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> typedProductIterator
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> until
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> w
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> weight
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> ||
+product stamps:
+12 items
+C:\Users\aem\Documents\formation scala\patmat\target\scala-2.11\classes\common\package$$anonfun$subFile$1.class -> lastModified(1557397227242)
+C:\Users\aem\Documents\formation scala\patmat\target\scala-2.11\classes\common\package$.class -> lastModified(1557397227236)
+C:\Users\aem\Documents\formation scala\patmat\target\scala-2.11\classes\common\package.class -> lastModified(1557397227221)
+C:\Users\aem\Documents\formation scala\patmat\target\scala-2.11\classes\patmat\Huffman$$anonfun$createCodeTree$1.class -> lastModified(1557416776328)
+C:\Users\aem\Documents\formation scala\patmat\target\scala-2.11\classes\patmat\Huffman$$anonfun$createCodeTree$2.class -> lastModified(1557416776333)
+C:\Users\aem\Documents\formation scala\patmat\target\scala-2.11\classes\patmat\Huffman$.class -> lastModified(1557416776303)
+C:\Users\aem\Documents\formation scala\patmat\target\scala-2.11\classes\patmat\Huffman$CodeTree.class -> lastModified(1557416776336)
+C:\Users\aem\Documents\formation scala\patmat\target\scala-2.11\classes\patmat\Huffman$Fork$.class -> lastModified(1557416776344)
+C:\Users\aem\Documents\formation scala\patmat\target\scala-2.11\classes\patmat\Huffman$Fork.class -> lastModified(1557416776351)
+C:\Users\aem\Documents\formation scala\patmat\target\scala-2.11\classes\patmat\Huffman$Leaf$.class -> lastModified(1557416776369)
+C:\Users\aem\Documents\formation scala\patmat\target\scala-2.11\classes\patmat\Huffman$Leaf.class -> lastModified(1557416776369)
+C:\Users\aem\Documents\formation scala\patmat\target\scala-2.11\classes\patmat\Huffman.class -> lastModified(1557416776154)
+source stamps:
+2 items
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\common\package.scala -> hash(885b8f12a5b2a83dad658f76cc1fdd678a38d4a8)
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> hash(6a63b1533984cd61f4b3d428c37982e4500e74aa)
+binary stamps:
+1 items
+C:\Users\aem\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.11.12\scala-library-2.11.12.jar -> lastModified(1509673049000)
+class names:
+1 items
+C:\Users\aem\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.11.12\scala-library-2.11.12.jar -> scala.runtime.AbstractFunction2
+internal apis:
+2 items
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\common\package.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwNR5ezQABc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAYc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwxBALLnQABm5vdGlmeXNxAH4ADLd7app0AAdwYWNrYWdlc3EAfgAMJhK6tnQABHdhaXRzcQB+AAzx5+qMdAANJGFzSW5zdGFuY2VPZnNxAH4ADM2K/A90AAZlcXVhbHNzcQB+AAzxbFRpdAAMYXNJbnN0YW5jZU9mc3EAfgAMzsiFSnQADHN5bmNocm9uaXplZHNxAH4ADFjDlPV0AA0kaXNJbnN0YW5jZU9mc3EAfgAMqj2IS3QAF3Jlc291cmNlQXNTdHJlYW1Gcm9tU3Jjc3EAfgAM1Ez2oXQACW5vdGlmeUFsbHNxAH4ADCYkqcp0AAxpc0luc3RhbmNlT2ZzcQB+AAxpxNpvdAADPz8/c3EAfgAMmnpgkXQAAj09c3EAfgAM2tY31nQABWNsb25lc3EAfgAMZ0zWI3QAB3N1YkZpbGVzcQB+AAwkK+HodAAIdG9TdHJpbmdzcQB+AAw/usRqdAACIT1zcQB+AAzTr+AcdAAIZ2V0Q2xhc3NzcQB+AAwIKkOTdAACbmVzcQB+AAwadAmLdAACZXFzcQB+AAyTEjXPdAACIyNzcQB+AAyruj4odAAIZmluYWxpemVzcQB+AAzDjCCldAAIaGFzaENvZGVzcQB+AAx7bUT0dAADKioqc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AR3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQADmNvbW1vbi5wYWNrYWdldXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAXQAJmpkay5pbnRlcm5hbC5Ib3RTcG90SW50cmluc2ljQ2FuZGlkYXRlc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AGBzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AR0wACWluaGVyaXRlZHEAfgBHTAAHcGFyZW50c3EAfgBHeHEAfgBlc3EAfgBgdXEAfgBCAAAAAHNxAH4AYHVxAH4AQgAAAABzcQB+AGB1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGR0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGRzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AH10AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AH5zcQB+AHF0AANBbnlzcQB+AHVzcQB+AHh1cQB+AHsAAAACc3EAfgB9dAAFc2NhbGFxAH4AhHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQABmNvbW1vbnNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABapwbvht1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABHQzpcVXNlcnNcYWVtXERvY3VtZW50c1xmb3JtYXRpb24gc2NhbGFccGF0bWF0XHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABSIW48SpbKoPa1lj3bMH91nijjUqA==
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwonmVRwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAABDc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwUWJ9KXQABm5vdGlmeXNxAH4ADOPjQIN0AAxtYWtlQ29kZVRyZWVzcQB+AAww19/AdAAGc2VjcmV0c3EAfgAM+eYOCXQAB3VuYXBwbHlzcQB+AAymkAlEdAAGZW5jb2Rlc3EAfgAMYbD+jXQABndlaWdodHNxAH4ADHtAd9p0AAdjdXJyaWVkc3EAfgAMkGpcT3QABWNvdW50c3EAfgAM2fgDJnQABHdhaXRzcQB+AAw/TF2FdAAOY29weSRkZWZhdWx0JDJzcQB+AAyfMkQ+dAANJGFzSW5zdGFuY2VPZnNxAH4ADOUHr/h0AAZpbnNlcnRzcQB+AAyhT5qjdAAMcHJvZHVjdEFyaXR5c3EAfgAMrYpCxXQABmVxdWFsc3NxAH4ADFNL+O50AAtxdWlja0VuY29kZXNxAH4ADPYxmT90AAdwdXRGb3Jrc3EAfgAMZyVeY3QADGFzSW5zdGFuY2VPZnNxAH4ADJnCMkl0AAxzeW5jaHJvbml6ZWRzcQB+AAwzgt2YdAAEbGVmdHNxAH4ADC8/JqF0AA0kaXNJbnN0YW5jZU9mc3EAfgAM5G1jmHQABnR1cGxlZHNxAH4ADCLp1Md0AAdIdWZmbWFuc3EAfgAMrzPg1XQACGNhbkVxdWFsc3EAfgAM3LgqmXQADmNvcHkkZGVmYXVsdCQ0c3EAfgAM6aMAh3QABGNoYXJzcQB+AAy4FAb8dAAGZGVjb2Rlc3EAfgAMkvT5NHQABExlYWZzcQB+AAzUn/iQdAAIY29kZUJpdHNzcQB+AAwEhdRkdAANcHJvZHVjdFByZWZpeHNxAH4ADF/DAKV0AAV1bnRpbHNxAH4ADNaygLF0AApmcmVuY2hDb2Rlc3EAfgAMF1XOA3QACW5vdGlmeUFsbHNxAH4ADOrGGQ50AAVjaGFyc3NxAH4ADArqKv90AAxpc0luc3RhbmNlT2ZzcQB+AAw0cbMjdAAGPGluaXQ+c3EAfgAM2+5dGXQABWFwcGx5c3EAfgAM/kzrr3QADWRlY29kZWRTZWNyZXRzcQB+AAwk6L+cdAACPT1zcQB+AAyiMG7xdAAKZW5jb2RlQ2hhcnNxAH4ADO/WaAV0AAVjbG9uZXNxAH4ADBgXJOF0AA9tZXJnZUNvZGVUYWJsZXNzcQB+AAwIKvVAdAAFdGltZXNzcQB+AAxLz2fmdAAGJGluaXQkc3EAfgAM82j6MnQAB2NvbWJpbmVzcQB+AAyaJm6edAAOY29weSRkZWZhdWx0JDNzcQB+AAy+Po9ydAAEY29weXNxAH4ADF/cRMh0AAxzdHJpbmcyQ2hhcnNzcQB+AAzUYODqdAAIdG9TdHJpbmdzcQB+AAyOhw/ndAAJc2luZ2xldG9uc3EAfgAM2oteLXQAAiE9c3EAfgAMagkRSHQACGdldENsYXNzc3EAfgAMGgvawXQACUNvZGVUYWJsZXNxAH4ADEdg+N90AA5jcmVhdGVDb2RlVHJlZXNxAH4ADEXyQTZ0AA5jb3B5JGRlZmF1bHQkMXNxAH4ADJJNcjp0AARGb3Jrc3EAfgAMJcagknQAA0JpdHNxAH4ADLKQ9W90AAJuZXNxAH4ADEPAr8h0ABNtYWtlT3JkZXJlZExlYWZMaXN0c3EAfgAM4KmO8XQACENvZGVUcmVlc3EAfgAMx3RtkXQAAmVxc3EAfgAMh3kEqHQAB2NvbnZlcnRzcQB+AAxeHu7VdAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAMGa0uBnQABXJpZ2h0c3EAfgAMIaZaiHQAAiMjc3EAfgAMxwaoL3QACGZpbmFsaXplc3EAfgAMVSXXHnQADnByb2R1Y3RFbGVtZW50c3EAfgAM/i44snQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AnXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQADnBhdG1hdC5IdWZmbWFudXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAXQAJmpkay5pbnRlcm5hbC5Ib3RTcG90SW50cmluc2ljQ2FuZGlkYXRlc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+ALZzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AnUwACWluaGVyaXRlZHEAfgCdTAAHcGFyZW50c3EAfgCdeHEAfgC7c3EAfgC2dXEAfgCYAAAAAHNxAH4AtnVxAH4AmAAAAABzcQB+ALZ1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+ALp0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+ALpzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+ANN0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+ANRzcQB+AMd0AANBbnlzcQB+AMtzcQB+AM51cQB+ANEAAAACc3EAfgDTdAAFc2NhbGFxAH4A2nVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQABnBhdG1hdHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABap1F+St1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABHQzpcVXNlcnNcYWVtXERvY3VtZW50c1xmb3JtYXRpb24gc2NhbGFccGF0bWF0XHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABRqY7FTOYTNYfSz1CjDeYLkUA50qg==
+external apis:
+0 items
+source infos:
+2 items
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\common\package.scala -> 
+AAAAAAAAAAA=
+C:\Users\aem\Documents\formation scala\patmat\src\main\scala\patmat\Huffman.scala -> 
+AAAAAAAAAAA=
+compilations:
+14 items
+00 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABao19SkZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAR0M6XFVzZXJzXGFlbVxEb2N1bWVudHNcZm9ybWF0aW9uIHNjYWxhXHBhdG1hdFx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+01 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABao4/F0Z1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAR0M6XFVzZXJzXGFlbVxEb2N1bWVudHNcZm9ybWF0aW9uIHNjYWxhXHBhdG1hdFx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+02 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABao5reGh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAR0M6XFVzZXJzXGFlbVxEb2N1bWVudHNcZm9ybWF0aW9uIHNjYWxhXHBhdG1hdFx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+03 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABapF/lat1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAR0M6XFVzZXJzXGFlbVxEb2N1bWVudHNcZm9ybWF0aW9uIHNjYWxhXHBhdG1hdFx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+04 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABapHEPyV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAR0M6XFVzZXJzXGFlbVxEb2N1bWVudHNcZm9ybWF0aW9uIHNjYWxhXHBhdG1hdFx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+05 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABapI32f91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAR0M6XFVzZXJzXGFlbVxEb2N1bWVudHNcZm9ybWF0aW9uIHNjYWxhXHBhdG1hdFx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+06 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABapKKA4N1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAR0M6XFVzZXJzXGFlbVxEb2N1bWVudHNcZm9ybWF0aW9uIHNjYWxhXHBhdG1hdFx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+07 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABapLkaz11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAR0M6XFVzZXJzXGFlbVxEb2N1bWVudHNcZm9ybWF0aW9uIHNjYWxhXHBhdG1hdFx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+08 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABapOVUaR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAR0M6XFVzZXJzXGFlbVxEb2N1bWVudHNcZm9ybWF0aW9uIHNjYWxhXHBhdG1hdFx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+09 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABapwbvht1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAR0M6XFVzZXJzXGFlbVxEb2N1bWVudHNcZm9ybWF0aW9uIHNjYWxhXHBhdG1hdFx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+10 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABapwiiJl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAR0M6XFVzZXJzXGFlbVxEb2N1bWVudHNcZm9ybWF0aW9uIHNjYWxhXHBhdG1hdFx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+11 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABapxIsHl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAR0M6XFVzZXJzXGFlbVxEb2N1bWVudHNcZm9ybWF0aW9uIHNjYWxhXHBhdG1hdFx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+12 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABapxJBJ91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAR0M6XFVzZXJzXGFlbVxEb2N1bWVudHNcZm9ybWF0aW9uIHNjYWxhXHBhdG1hdFx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+13 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABap1F+St1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAR0M6XFVzZXJzXGFlbVxEb2N1bWVudHNcZm9ybWF0aW9uIHNjYWxhXHBhdG1hdFx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
